@@ -126,6 +126,10 @@ img {
     color: var(--hoov-text-cl);
 }
 
+.active {
+    color: var(--hoov-text-cl);
+}
+
 .header-menu-link.active::after {
     content: '';
     position: absolute;
